@@ -1,0 +1,230 @@
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe.config
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Properties.Resources.resources
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Login.resources
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Home.resources
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Funcionarios.resources
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Cargos.resources
+C:\Users\thiag\source\repos\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_Produtos.resources
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe.config
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Cargos.resources
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Funcionarios.resources
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Home.resources
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Login.resources
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_Produtos.resources
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Properties.Resources.resources
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\Desktop\PIM IV Athenas\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe.config
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Cargos.resources
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Funcionarios.resources
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Home.resources
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Login.resources
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_Produtos.resources
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Properties.Resources.resources
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\Desktop\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Cargos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Funcionarios.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Home.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Login.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_Produtos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_ListaFuncionarios.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Usuarios.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Fornecedores.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_Estoque.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Servicos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelProdutos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\RdlCompile.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\RdlCompile.compiled
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\EnvDTE.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\stdole.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.MSXML.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_Vendas.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelComprovante.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelVendas.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_Movimentacoes.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_Gastos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Hospedes.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_NovoServicos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\PIM IV Athenas - Copia\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Quartos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Cargos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Fornecedores.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Funcionarios.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Hospedes.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_ListaFuncionarios.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Quartos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Servicos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Cadastros.frm_Usuarios.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Home.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.frm_Login.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_Movimentacoes.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_Vendas.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_Gastos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Movimentacoes.frm_NovoServicos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_Estoque.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_Produtos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelComprovante.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelProdutos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelVendas.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\RdlCompile.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\RdlCompile.compiled
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Sistema_Hoteleiro.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\EnvDTE.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\stdole.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\Microsoft.MSXML.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelComprovanteServico.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelServicos.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelMovimentacoes.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_MovimentacoesGerais.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Reservas.frm_Reservas.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Reservas.frm_ConsultarReservas.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Reservas.frm_CheckIn.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Reservas.frm_CheckOut.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Relatorios.frm_RelDetReservas.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Sistema_Hoteleiro\Sistema_Hoteleiro\obj\Debug\Sistema_Hoteleiro.Produtos.frm_EstoqueBaixo.resources
